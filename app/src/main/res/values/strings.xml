@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guia5</string>
+    <string name="conversacion">CONVERSACIÓN</string>
+    <string name="login">LOGIN</string>
+    <string name="calculadora">CALCULADORA</string>
+    <string name="datos">DATOS</string>
+    <string name="nombre">Victoria Alejandra Cuéllar Larín</string>
+    <string name="codigo">CL17-I04-003</string>
+</resources>
